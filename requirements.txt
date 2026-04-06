@@ -1,0 +1,14 @@
+selenium>=4.15.0
+requests>=2.31.0
+colorama>=0.4.6
+python-dotenv>=1.0.0
+loguru>=0.7.2
+webdriver-manager>=4.0.1
+fake-useragent>=1.4.0
+pydantic>=2.0.0
+sqlalchemy>=2.0.0
+flask>=3.0.0
+flask-cors>=4.0.0
+aiohttp>=3.9.0
+asyncio-contextmanager>=1.0.0
+psutil>=5.9.0
